@@ -1,6 +1,6 @@
 
 const  DashBoard = () => {
-    return <div> Header </div>
+    return <div> dashboard </div>
 }
 
 export default  DashBoard;
